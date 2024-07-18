@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\EmployeesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B728477-8195-420F-8C1C-338218FBC7CE}|EmployeesApp\\EmployeesApp.csproj|c:\\users\\ibrah\\source\\repos\\employeesapp\\employeesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B728477-8195-420F-8C1C-338218FBC7CE}|EmployeesApp\\EmployeesApp.csproj|solutionrelative:employeesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\EmployeesApp\\EmployeesApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\EmployeesApp\\EmployeesApp\\Program.cs",
+              "RelativeToolTip": "EmployeesApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:09:02.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
